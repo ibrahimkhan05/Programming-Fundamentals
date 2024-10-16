@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Programming Fundamentals</h1>
+<h1 align="center" id="title">Programming Fundamentals(CS103)</h1>
 
-<p id="description">This project is for to store my Programming Fundamentals (CS103) course Lab work Assigements Lab taks and pratice and to share with others so they can get help from it. (no copy paste:) )</p>
+<p id="description">This project is for to store my Programming Fundamentals (CS103) course Lab work Assigements Lab taks and pratice and to share with others so they can get help from it. (no copy paste:) ) and also to save my work for future.</p>
 
   
   
@@ -12,7 +12,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. To run code Follow these steps</p>
+<p>1. To run C program Follow steps in given url.</p>
 
 ```
 https://code.visualstudio.com/docs/languages/cpp
