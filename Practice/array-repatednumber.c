@@ -14,6 +14,10 @@ int main() {
     scanf("%lld", &digit);
     
     do {
+        if (digit == 0) {
+            digit = 1;
+            break;
+        }
         last_digit = digit % 10;
     checker_duplicate[last_digit]++;
     // So after geeting last number and then using as index and then incresing after 1

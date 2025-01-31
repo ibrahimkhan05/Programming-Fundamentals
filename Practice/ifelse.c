@@ -1,13 +1,23 @@
+// #include <stdio.h>
+// int main(){
+//     int marks;
+//     printf("Enter a marks");
+//     scanf("%d",&marks);
+//     if(marks == 30);
+//     printf(")
+// }
+// // 
 #include <stdio.h>
-
-int main(void) {
-    double number = -0.0000000000001;
-    long long int test = 21312231123213123123;
-    if (number) {
-        printf("Yes i am correct \n");
-        printf("%-100.100lld", test);
+int main(){
+    int marks;
+    printf("Enter a marks");
+    scanf("%d",&marks);
+    if(marks >= 30) {
+    printf("haris will be  pss in pf ");
     } else {
-        printf("Moye Moye");
+printf("t a i l lora ");
     }
     return 0;
-} 
+}
+
+

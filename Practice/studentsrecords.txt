@@ -1,0 +1,13 @@
+Total Students: 2
+
+Student no: 1
+Student Name: Ibrahim Khan
+Student Semester: 2
+Student CGPA: 3.20
+Student Grade A
+
+Student no: 2
+Student Name: Malik Haris
+Student Semester: 2
+Student CGPA: 3.10
+Student Grade: 2
