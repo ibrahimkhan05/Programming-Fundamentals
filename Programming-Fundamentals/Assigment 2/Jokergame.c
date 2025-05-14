@@ -5,9 +5,6 @@ Group Members:
 
 Ibrahim Khan
 SP24-BCS-160
-
-Zuneera Tariq 
-SP24-BCS-133
 */
 #include <stdio.h>
 #include <time.h>
